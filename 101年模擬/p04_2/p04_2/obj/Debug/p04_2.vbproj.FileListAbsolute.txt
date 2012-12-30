@@ -1,0 +1,12 @@
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\bin\Debug\p04_2.exe
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\bin\Debug\p04_2.pdb
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\bin\Debug\p04_2.xml
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.Resources.resources
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.vbproj.GenerateResource.Cache
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.exe
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.xml
+C:\Users\linroex\Documents\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.pdb
+C:\Users\linroex\Dropbox\技藝競賽\101模擬練習\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.exe
+C:\Users\linroex\Dropbox\技藝競賽\101模擬練習\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.xml
+C:\Users\linroex\Dropbox\技藝競賽\101模擬練習\第二次模擬練習\p04_2\p04_2\obj\Debug\p04_2.pdb

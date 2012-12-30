@@ -1,0 +1,9 @@
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\bin\Debug\p01_1.exe
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\bin\Debug\p01_1.pdb
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\bin\Debug\p01_1.xml
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\obj\Debug\p01_1.Resources.resources
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\obj\Debug\p01_1.vbproj.GenerateResource.Cache
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\obj\Debug\p01_1.exe
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\obj\Debug\p01_1.xml
+C:\Users\linroex\Documents\第二次模擬練習\p01_1\p01_1\obj\Debug\p01_1.pdb

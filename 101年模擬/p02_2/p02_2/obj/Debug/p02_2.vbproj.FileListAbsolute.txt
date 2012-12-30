@@ -1,0 +1,15 @@
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\bin\Debug\p02_2.exe
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\bin\Debug\p02_2.pdb
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\bin\Debug\p02_2.xml
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.Resources.resources
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.vbproj.GenerateResource.Cache
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.exe
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.xml
+C:\Users\linroex\Documents\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.pdb
+E:\Dropbox\Dropbox\技藝競賽練習\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.exe
+E:\Dropbox\Dropbox\技藝競賽練習\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.xml
+E:\Dropbox\Dropbox\技藝競賽練習\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.pdb
+C:\Users\linroex\Dropbox\技藝競賽\101模擬練習\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.exe
+C:\Users\linroex\Dropbox\技藝競賽\101模擬練習\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.xml
+C:\Users\linroex\Dropbox\技藝競賽\101模擬練習\第二次模擬練習\p02_2\p02_2\obj\Debug\p02_2.pdb
